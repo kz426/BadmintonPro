@@ -6,7 +6,7 @@ We will use .NET MAUI in order to make the UI accessible for users of Android, i
 
 ## Rationale 
 .NET MAUI promotes operational excellence. Since the UI is universal across all platforms, insignificant additional effort will have to be invested into each type of device. In addition, it allows us to implement as much UI as possible into a singular codebase.
-Avalonia UI and Flutter were also considered. They were ulimately rejected in favor of .NET MAUI for its libraries, workflows, and high quality integration ability.
+Avalonia UI and Flutter were also considered. They were ultimately rejected in favor of .NET MAUI for its libraries, workflows, and high quality integration ability.
 
 ## Status
 Accepted
