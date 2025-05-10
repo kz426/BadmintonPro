@@ -9,7 +9,7 @@ The multicloud solution promotes reliability. Availability and robustness should
 Things such as CDNs and highly scalable data stores contribute to low latency and therefore, increased performance efficiency.
 Cost is optimized in a multicloud solution because we will only pay for what we need.
 
-We had to deny one cloud in this decision. One cloud would compartamentalize the skillsets needed in our human capital. It could further optimize cost. However, one cloud is not feasible given the scope of our operations. We plan to make our product accessible worldwide and highly available, with a very low error rate. The robust nature of multicloud ultimately resulted in our decision. And finally, the benefits corresponding to the AWS Well-Architected Framework made a cloud solution a must, compared to any non-cloud solution.
+We had to deny one cloud in this decision. One cloud would compartmentalize the skillsets needed in our human capital. It could further optimize cost. However, one cloud is not feasible given the scope of our operations. We plan to make our product accessible worldwide and highly available, with a very low error rate. The robust nature of multicloud ultimately resulted in our decision. And finally, the benefits corresponding to the AWS Well-Architected Framework made a cloud solution a must, compared to any non-cloud solution.
 
 ## Status
 Accepted
